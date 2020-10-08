@@ -40,6 +40,4 @@ export const getServerSideProps: GetServerSideProps<HomeProps> = async () => {
       recommendedProducts
     }
   }
-  
-
 }
