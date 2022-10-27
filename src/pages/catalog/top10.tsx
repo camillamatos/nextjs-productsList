@@ -1,4 +1,4 @@
-import { GetStaticProps } from "next"
+import { GetStaticProps } from 'next'
 
 interface IProduct {
   id: string;
